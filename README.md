@@ -134,7 +134,7 @@ Product Analytics | Business Analytics | AI
 - **Email:** jaskarannarora@gmail.com
 - **GitHub:** https://github.com/Jaskaran710
 - **LinkedIn:** https://www.linkedin.com/in/jaskaran-arora-5773bb410/
-- **Portfolio:** https://resume-ixs9.vercel.app/
+- **Portfolio:** https://resume-two-nu-54.vercel.app/
 
 ---
 
